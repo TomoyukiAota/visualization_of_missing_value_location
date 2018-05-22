@@ -4,7 +4,9 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/TomoyukiAota/visualization_of_missing_value_location/master)
 
-This repository is available on Binder. Click the above badge to launch.
+This repository is available on Binder.
+
+Clicking the above badge will take you to Binder's loading screen. Then, wait for a moment until Jupyter launches.
 
 ## Run on your environment
 
