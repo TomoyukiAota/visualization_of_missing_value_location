@@ -4,7 +4,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/TomoyukiAota/visualization_of_missing_value_location/master)
 
-This repository is available on Binder. Click the above badge to run.
+This repository is available on Binder. Click the above badge to launch.
 
 ## Run on your environment
 
