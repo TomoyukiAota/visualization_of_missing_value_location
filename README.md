@@ -1,6 +1,7 @@
 # Visualization of Missing Value Location
 
 This repository contains a Jupyter notebook for visualizing the patterns of missing value occurrence with Python.
+
 The following articles describes the topic using this repository:
 
  - [Visualizing the patterns of missing value occurrence with Python](https://dev.to/tomoyukiaota/visualizing-the-patterns-of-missing-value-occurrence-with-python-46dj)
